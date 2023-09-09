@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="unit06.adder.Calculator">
+  <grid id="27dc6" binding="myPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="78d60" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="db616" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="+"/>
+        </properties>
+      </component>
+      <component id="1e963" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="54462" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="="/>
+        </properties>
+      </component>
+      <component id="9879" class="javax.swing.JTextField" binding="textField3" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+    </children>
+  </grid>
+</form>
